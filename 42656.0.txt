@@ -1,0 +1,30 @@
+@0
+
+
+@1
+START: MOV UP, ACC
+JEZ NEXT
+JMP START
+NEXT:
+MOV ACC, RIGHT
+
+@2
+
+
+@3
+
+
+@4
+
+
+@5
+
+
+@6
+
+
+@7
+
+
+@8
+
