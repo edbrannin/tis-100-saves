@@ -1,5 +1,5 @@
 @0
-
+## SHORTER?
 
 @1
 MOV 0, RIGHT
